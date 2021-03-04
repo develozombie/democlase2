@@ -1,0 +1,1 @@
+<?php echo "Hola Mundo Green ", date("Y-m-d"); ?>
