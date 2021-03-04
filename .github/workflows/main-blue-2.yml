@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master-blue ]
   pull_request:
-    branches: [ master ]
+    branches: [ master-blue ]
 
 env:
   AZURE_WEBAPP_NAME: azjoyapu-web-blue    # set this to your application's name
